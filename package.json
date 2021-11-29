@@ -4,7 +4,7 @@
    "description": "Birthday greetings..",
    "main": " ",
    "scripts": {
-     "server-node": "index.html"
+      "start": "node index.html"
    },
    "keywords": [
      "Birthday"
@@ -12,6 +12,6 @@
    "author": "Mr.F",
    "license": "MIT",
    "dependencies": {
-      "start": "node index.html"
+     "http-server": "^0.11.1"
    }
  }
