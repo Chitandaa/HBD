@@ -1,1 +1,1 @@
-worker: node index.html
+worker: http-server -p 8081
